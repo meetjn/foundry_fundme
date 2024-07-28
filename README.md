@@ -10,8 +10,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-cu
-cd foundry-fund-me-cu
+git clone https://github.com/meetjn/foundry_fundme.git
+cd foundry_fundme
 make
 ```
 
@@ -32,7 +32,7 @@ We talk about 4 test tiers in the video.
 3. Forked
 4. Staging
 
-This repo we cover #1 and #3.
+In this repo, we cover #1 and #3.
 
 ```
 forge test
