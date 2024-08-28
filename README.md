@@ -15,7 +15,7 @@ cd foundry_fundme
 make
 ```
 
-# Usage
+
 
 ## Deploy
 
@@ -23,16 +23,6 @@ make
 forge script script/DeployFundMe.s.sol
 ```
 
-## Testing
-
-We talk about 4 test tiers in the video.
-
-1. Unit
-2. Integration
-3. Forked
-4. Staging
-
-In this repo, we cover #1 and #3.
 
 ```
 forge test
